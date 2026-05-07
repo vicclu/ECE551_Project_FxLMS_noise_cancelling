@@ -1,0 +1,10 @@
+Experiment 1: LMS/NLMS speech-noise cancellation
+=================================================
+
+Speech file:                  sounds\harvard.wav
+Sampling frequency:           96000 Hz
+Duration:                     10.000 s
+
+Input speech SNR:             0.000 dB
+Enhanced speech SNR:          6.546 dB
+Speech SNR improvement:       6.546 dB

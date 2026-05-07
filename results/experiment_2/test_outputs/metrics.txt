@@ -1,0 +1,14 @@
+Experiment 2: FxNLMS headphone active noise cancellation
+=======================================================
+
+Speech file:                  sounds\harvard.wav
+Sampling frequency:           96000 Hz
+Duration:                     10.000 s
+
+Ear input SNR before ANC:     0.003 dB
+Ear output SNR after ANC:     53.641 dB
+Headphone ANC improvement:    53.638 dB
+
+Final noise power before ANC: 9.66475425e-01
+Final residual power after:   2.30542899e-06
+Speech/playback distortion:   4.32444722e-06
